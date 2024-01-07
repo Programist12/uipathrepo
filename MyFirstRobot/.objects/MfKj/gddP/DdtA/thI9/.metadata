@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Text Area",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "thI9uPZriUuA7m9-C24z-w",
+  "Reference": "Khlzs1lD-U60IKoBUbiKEw/thI9uPZriUuA7m9-C24z-w",
+  "ParentRef": "Khlzs1lD-U60IKoBUbiKEw/DdtAUDTnf0Wy7fwpm5WZlw",
+  "Created": "2024-01-07T16:15:48.1647004Z",
+  "Updated": "2024-01-07T16:15:48.1647004Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
